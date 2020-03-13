@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: fantasy;
+    font-size: x-large;
+}
+body
+{
+    background-image: url(https://www.vidapotencial.com/wp-content/uploads/2019/04/el_cafe_es_bueno.jpg);
+}
+form{
+    margin: auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 100px;
+    border-radius: 10px;
+}
+input{
+    margin-bottom: 30px;
+}
+h3{
+    text-align: center;
+    Color: white;
+    font-size: 55px;
+}
+button{
+    margin-left: 42%;
+}
